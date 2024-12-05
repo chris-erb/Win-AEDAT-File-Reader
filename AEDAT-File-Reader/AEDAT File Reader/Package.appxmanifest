@@ -10,7 +10,7 @@ IgnorableNamespaces="uap mp rescap"
   <mp:PhoneIdentity PhoneProductId="a7dfbb99-9f77-4b74-a247-bd42967f7441" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>AEDAT File Reader</DisplayName>
-    <PublisherDisplayName>Anthony Beninati; Christopher Erb; Martin Nowak</PublisherDisplayName>
+    <PublisherDisplayName>Anthony Beninati, Christopher Erb, Martin Nowak</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
