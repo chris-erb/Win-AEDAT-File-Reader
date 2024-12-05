@@ -1,5 +1,8 @@
 # AEDAT-File-Reader
-</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is software to get details on a AEDAT file produced by a neuromorphic camera.
+**Prior to running, please enable developer tools and allow file system access for the built file reader.**
+  <br>
+    <br>
+This is software to get details on a AEDAT file produced by a neuromorphic camera.
 Currently this software can organize the starting time, ending time, duration, number of events, and average events per second in a table. This table can be converted to a .CSV file. This software can select multiple files at once leading to faster productivity.</p> 
 
 <h2>Video Rendering</h2>
